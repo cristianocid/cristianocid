@@ -1,7 +1,10 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocid&show_icons=true&theme=transparent)
+
 ### Olá!!! Eu sou Cristiano Cid Bonfim
 
-- 🔭 Buscando oportunidade como Analista de Testes QA
-- 🌱 Estudando Testes com Java/Appium/Selenium/Cypress
+- 🔎 Buscando oportunidade como Analista de Testes QA
+- 📚 Estudando Testes com Java/Appium/Selenium/Cypress - Iterasys
+- ✅ Formado em Testes de Software - JavaScript/Cypress/Appium - Iterasys
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

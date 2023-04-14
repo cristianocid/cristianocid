@@ -14,7 +14,7 @@
   <img align="center" alt="Cris-Cypress" style="vertical-align:middle;margin:0px 50px" height="28" width="30" src="https://photos.angel.co/startups/i/990472-43c41394544e7735e11b2221809f2497-medium_jpg.jpg?buster=1626384156">
   <img align="center" alt="Cris-Appium" marginleft="5" height="30" width="30" src="https://th.bing.com/th/id/OIP.irnDDI0VgqKjkrTVrMTe4QAAAA?pid=ImgDet&rs=1">
   <img align="center" alt="Cris-Postman" height="30" width="35" src="https://th.bing.com/th/id/R.7f5fadc660d859decbc057fa5e1bb649?rik=%2bDkqq33MIE9ufQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fpostman-icon-69.png&ehk=KR1eaQxec8wYYzqPILHBl24EnrP1jWa5gUJ3oI9cDCg%3d&risl=&pid=ImgRaw&r=0">
-  <img align="right" alt="Cris-pic" height="250" width="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/f2/a8/61/f2a861173676a69c3620602f47a6af50.jpg">
+  <img align="right" alt="Cris-pic" height="250" width="170" style="border-radius:50px;" src="https://i.pinimg.com/originals/f2/a8/61/f2a861173676a69c3620602f47a6af50.jpg">
 </div>
 
   ##

@@ -3,8 +3,8 @@
 ### Olá!!! Eu sou Cristiano Cid Bonfim
 
 - 🔎 Buscando oportunidade como Analista de Testes QA
-- 📚 Estudando Testes com Java/Appium/Selenium/Cypress - Iterasys
-- ✅ Formado em Testes de Software - JavaScript/Cypress/Appium - Iterasys
+- 📚 Estudando Testes com Java/Cypress/Appium/Selenium - Iterasys
+- ✅ Formado em Testes de Software - JavaScript/Cypress/Appium/Selenium - Iterasys
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

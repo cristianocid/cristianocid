@@ -9,7 +9,7 @@
   
 Sou um profissional em transição de carreira, com uma paixão pela área de tecnologia. Minha trajetória profissional começou como auxiliar de produção, onde tive a oportunidade de aprender sobre os processos de manufatura e produção industrial. No entanto, recentemente me encontro desempregado, e decidi embarcar em uma nova jornada rumo à área de Testes de Software.
 
-Tenho me dedicado intensamente aos estudos nessa área e estou atualmente participando do curso da Iterasys. Tenho adquirido conhecimentos sólidos em metodologias de teste, ferramentas de automação, e tenho buscado aprimorar minhas habilidades técnicas em programação em Java e JavaScript.
+Tenho me dedicado intensamente aos estudos nessa área e estou atualmente participando do curso da *Iterasys*. Tenho adquirido conhecimentos sólidos em metodologias de teste, ferramentas de automação, e tenho buscado aprimorar minhas habilidades técnicas em programação em *Java* e *JavaScript*.
 
 Tenho um interesse especial em me aprofundar nas melhores práticas de testes de software, garantindo a qualidade e eficiência dos produtos desenvolvidos. Tenho buscado constantemente atualizações e aprendizado, buscando também o apoio e mentoria de profissionais experientes na área.
 

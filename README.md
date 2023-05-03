@@ -53,7 +53,7 @@ Aqui nesta plataforma, você terá acesso a diversos projetos realizados como pa
 
 - [ ] 💻  Bacharel em Ciência da Computação (UNISUAM - 8º Período)
 
-- [x] 🚆  Tecnólogo em Administração (ETE-Juscelino Kubitschek)
+- [x] 💼  Tecnólogo em Administração (ETE-Juscelino Kubitschek)
 
 
 
@@ -62,6 +62,8 @@ Aqui nesta plataforma, você terá acesso a diversos projetos realizados como pa
 - [x] 💻  Formação em Teste de Software - JavaScript (Iterasys)
   
 - [ ] 👩🏻‍💻  Formação em Teste de Software - Java (Iterasys)
+  
+- [ ] 👩🏻‍💻  Formação em Teste de Software - Python (Iterasys)
 
  
  

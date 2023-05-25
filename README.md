@@ -31,6 +31,7 @@ Aqui nesta plataforma, você terá acesso a diversos projetos realizados como pa
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,python,azure,git,gherkin,jest,maven,selenium,postman" />
+    <img  alt="Cris-Robot" height="48" width="48" src="[https://th.bing.com/th/id/OIP.irnDDI0VgqKjkrTVrMTe4QAAAA?pid=ImgDet&rs=1](https://pbs.twimg.com/profile_images/932695487932784640/QdWJdB_g_400x400.jpg)">
     <img  alt="Cris-Cypress" height="48" width="48" src="https://photos.angel.co/startups/i/990472-43c41394544e7735e11b2221809f2497-medium_jpg.jpg?buster=1626384156">
     <img  alt="Cris-Appium" height="48" width="48" src="https://th.bing.com/th/id/OIP.irnDDI0VgqKjkrTVrMTe4QAAAA?pid=ImgDet&rs=1">
   </a>

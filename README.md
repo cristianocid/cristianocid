@@ -62,7 +62,7 @@ Aqui nesta plataforma, você terá acesso a diversos projetos realizados como pa
 
 - [x] 💻  Formação em Teste de Software - JavaScript (Iterasys)
   
-- [ ] 👩🏻‍💻  Formação em Teste de Software - Java (Iterasys)
+- [x] 👩🏻‍💻  Formação em Teste de Software - Java (Iterasys)
   
 - [x] 👩🏻‍💻  Formação em Teste de Software - Python (Iterasys)
 

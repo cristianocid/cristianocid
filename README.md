@@ -21,8 +21,8 @@ Aqui nesta plataforma, você terá acesso a diversos projetos realizados como pa
   
 <div align="center">
   <a href="https://github.com/cristianocid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianocid&show_icons=true&theme=codeSTACKr"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocid&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianocid&show_icons=true&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocid&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
 <p align="center">
